@@ -1,2 +1,2 @@
-# word_a_day_calendar
-word_a_day_calendar
+# Hackathon Projects
+1. word_a_day_calendar
